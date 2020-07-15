@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_paypal.iml" filepath="$PROJECT_DIR$/Android_paypal.iml" group="Android_paypal" />
+      <module fileurl="file://$PROJECT_DIR$/app/Android_paypal-app.iml" filepath="$PROJECT_DIR$/app/Android_paypal-app.iml" group="Android_paypal/app" />
+      <module fileurl="file://$PROJECT_DIR$/Android_paypal_integration.iml" filepath="$PROJECT_DIR$/Android_paypal_integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
